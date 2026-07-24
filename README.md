@@ -116,13 +116,13 @@ http://127.0.0.1:8000
 Email
 
 ```
-admin@appleseller.com
+ivan@gmail.com
 ```
 
 Password
 
 ```
-password
+12345678
 ```
 
 ---
@@ -132,13 +132,13 @@ password
 Email
 
 ```
-chatgpt@appleseller.com
+mejaku@gmail.com
 ```
 
 Password
 
 ```
-password
+mejamuka1234
 ```
 
 > **Catatan:** Sesuaikan akun demo dengan data pengguna yang terdapat pada database apabila berbeda.
